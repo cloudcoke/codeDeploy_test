@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files:
+  - source: front/build
+    destination: /home/ubuntu/www/build
